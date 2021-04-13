@@ -1,0 +1,4 @@
+"Estar"
+"Ver"
+"Ir" 
+"Venir"
